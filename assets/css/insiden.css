@@ -1,0 +1,113 @@
+@import url('https://fonts.googleapis.com/css2?family=Arimo&family=Oswald:wght@200;300;400;500;600;700&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+body{
+    font-family: 'Poppins';
+}
+.navbar{
+    background-color: rgb(146, 21, 21);
+    height: 90px;
+}
+.welcome-message {
+    color: rgb(255, 255, 255);
+    font-family: 'Poppins';
+    font-size: 15px;
+    padding: 10px;
+    font-weight: 500;
+}
+
+.nav-link {
+    color: #fff;
+}
+
+.nav-link:hover {
+    color: #f8f9fa;
+}
+.custom-btn{
+    background-color: #ffe563;
+    color: #000000;
+}
+.custom-btn:hover{
+    background-color: #c4a613;
+}
+#logoutButton {
+    color: #ffffff;
+    font-size: 25px;
+    margin-right: 20px;
+}
+#logoutButton:hover {
+    color: #ff0000;
+}
+.custom-thead {
+    background-color: #C63D2F;
+    color: #ffffff;
+}
+.custom-thead th {
+    text-align: center;
+    color: #ffffff;
+}
+.vertical-center th {
+    vertical-align: middle;
+    height: 100px;
+}
+.data_table {
+    padding-top: 10px;
+    background: #fff;
+    padding: 15px;
+  }
+  .data_table .btn{
+    padding: 5px 10px;
+    margin: 10px 5px 10px;
+  }
+.btn-secondary.buttons-copy {
+    background-color: #a4aca4;
+    color: #fff;
+    border: 1px solid #a4aca4;
+}
+.btn-secondary.buttons-copy:hover{
+    background-color: #494d49;
+    border: 1px solid #494d49;
+}
+.btn-secondary.buttons-csv {
+    background-color: #21A366;
+    color: #fff;
+    border: 1px solid #21A366;
+}
+.btn-secondary.buttons-csv:hover {
+    background-color: #105535;
+    border: 1px solid #105535;
+}
+.btn-secondary.buttons-excel {
+    background-color: #107C41;
+    color: #fff;
+    border: 1px solid #107C41;
+}
+.btn-secondary.buttons-excel:hover {
+    background-color: #011f0f;
+    border: 1px solid #011f0f;
+}
+.btn-secondary.buttons-pdf {
+    background-color: #DC1D00;
+    color: #fff;
+    border: 1px solid #DC1D00;
+}
+.btn-secondary.buttons-pdf:hover {
+    background-color: #471008;
+    border: 1px solid #471008;
+}
+.btn-secondary.buttons-print {
+    background-color: #5e666a;
+    color: #fff;
+    border: 1px solid #5e666a;
+}
+.btn-secondary.buttons-print:hover{
+    background-color: #242729;
+    border: 1px solid #242729;
+}
+.data_table {
+    position: relative;
+}
+.report {
+    margin-right: 5px;
+}
+
+
+    
